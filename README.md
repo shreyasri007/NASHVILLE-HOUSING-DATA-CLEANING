@@ -60,6 +60,7 @@ The dataset of houses in Nashville city was in xlsx format. I imported the datas
 
 
 
+
 2.  **Populate Property Address:** Missing values in the "PropertyAddress" column were updated using the ISNULL function and duplicates were identified and removed by joining the table and comparing the values of the "ParcelID" and "PropertyAddress" columns.
 
 ![Screenshot 2024-01-07 021458](https://github.com/shreyasri007/Nashville-Housing-Data-Cleaning/assets/132162991/dfb04d60-ed19-41ec-b3ee-41707554936c)
